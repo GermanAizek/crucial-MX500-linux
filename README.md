@@ -1,5 +1,5 @@
 # Crucial MX500 Firmwares
-Repository will only affect Linux installation
+Repository will only affect Linux installation. Please note that firmware is suitable for all form factors.
 
 ## Difference versions
 
